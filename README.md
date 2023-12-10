@@ -19,3 +19,6 @@ ET-VScanner is a command-line vulnerability scanner tool written in Python. It h
 
    ```shell
    git clone https://github.com/your-username/ET-VScanner.git
+   cd ET-VScanner
+   python ET-VScanner.py
+```
